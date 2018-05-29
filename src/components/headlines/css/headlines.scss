@@ -1,0 +1,11 @@
+$headline-text-color: red !default;
+$headline-background-color: green !default;
+$headline-font-size: 40px !default;
+
+.headline {
+    h1 {
+        color: $headline-text-color;
+        background-color: $headline-background-color;
+        font-size: $headline-font-size;
+    }
+}

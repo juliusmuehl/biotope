@@ -1,5 +1,7 @@
-$headline-text-color: red !default;
-$headline-background-color: green !default;
+@import "../../../resources/scss/bioTheme/mapping";
+
+$headline-text-color: #000 !default;
+$headline-background-color: #fff !default;
 $headline-font-size: 40px !default;
 
 .headline {

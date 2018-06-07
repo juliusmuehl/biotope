@@ -1,15 +1,15 @@
 @charset "UTF-8";
 
 /* global settings */
-@import "settings/settings";
+@import "bioTheme/settings";
 
 /* functions */
 @import "utilities/functions";
 
 /* fonts */
 @import "fonts/fonts";
-@import "../../../../.iconfont/iconStyles";
-@import "../../../../.iconfont/icons";
+@import "../../../.iconfont/iconStyles";
+@import "../../../.iconfont/icons";
 
 /* breakpoint */
 @import "./node_modules/breakpoint-sass/stylesheets/breakpoint";
